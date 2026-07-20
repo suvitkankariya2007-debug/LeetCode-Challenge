@@ -30,4 +30,8 @@ gotta post the solutions to problem that i would solve
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0088-merge-sorted-array) |
+## Math
+|  |
+| ------- |
+| [2383-add-two-integers](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/2383-add-two-integers) |
 <!---LeetCode Topics End-->
