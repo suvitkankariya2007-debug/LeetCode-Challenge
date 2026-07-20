@@ -34,4 +34,5 @@ gotta post the solutions to problem that i would solve
 |  |
 | ------- |
 | [2383-add-two-integers](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/2383-add-two-integers) |
+| [2556-convert-the-temperature](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/2556-convert-the-temperature) |
 <!---LeetCode Topics End-->
