@@ -9,6 +9,7 @@ gotta post the solutions to problem that i would solve
 | [0001-two-sum](https://github.com/suvitkankariya2007-debug/75-Days-LeetCode-Challenge/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/suvitkankariya2007-debug/75-Days-LeetCode-Challenge/tree/master/0217-contains-duplicate) |
 | [0088-merge-sorted-array](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0088-merge-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0560-subarray-sum-equals-k) |
 | [0948-sort-an-array](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/1019-squares-of-a-sorted-array) |
@@ -19,6 +20,7 @@ gotta post the solutions to problem that i would solve
 | ------- |
 | [0001-two-sum](https://github.com/suvitkankariya2007-debug/75-Days-LeetCode-Challenge/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/suvitkankariya2007-debug/75-Days-LeetCode-Challenge/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0560-subarray-sum-equals-k) |
 | [2447-merge-similar-items](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/2447-merge-similar-items) |
 ## Sorting
@@ -26,6 +28,7 @@ gotta post the solutions to problem that i would solve
 | ------- |
 | [0217-contains-duplicate](https://github.com/suvitkankariya2007-debug/75-Days-LeetCode-Challenge/tree/master/0217-contains-duplicate) |
 | [0088-merge-sorted-array](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0088-merge-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0349-intersection-of-two-arrays) |
 | [0948-sort-an-array](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/1019-squares-of-a-sorted-array) |
 | [2447-merge-similar-items](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/2447-merge-similar-items) |
@@ -37,6 +40,7 @@ gotta post the solutions to problem that i would solve
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0088-merge-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0349-intersection-of-two-arrays) |
 | [1019-squares-of-a-sorted-array](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/1019-squares-of-a-sorted-array) |
 ## Math
 |  |
@@ -72,4 +76,8 @@ gotta post the solutions to problem that i would solve
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0948-sort-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
