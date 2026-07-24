@@ -45,6 +45,7 @@ gotta post the solutions to problem that i would solve
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0412-fizz-buzz) |
 | [2383-add-two-integers](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/2383-add-two-integers) |
 | [2556-convert-the-temperature](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/2556-convert-the-temperature) |
 ## Prefix Sum
@@ -80,4 +81,12 @@ gotta post the solutions to problem that i would solve
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0349-intersection-of-two-arrays) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
