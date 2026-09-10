@@ -66,6 +66,7 @@ gotta post the solutions to problem that i would solve
 |  |
 | ------- |
 | [0015-3sum](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0148-sort-list) |
@@ -154,6 +155,7 @@ gotta post the solutions to problem that i would solve
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0148-sort-list](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0148-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0237-delete-node-in-a-linked-list) |
