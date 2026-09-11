@@ -27,6 +27,7 @@ gotta post the solutions to problem that i would solve
 | [1603-running-sum-of-1d-array](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/1603-running-sum-of-1d-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2447-merge-similar-items](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/2447-merge-similar-items) |
+| [3799-unique-3-digit-even-numbers](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/3799-unique-3-digit-even-numbers) |
 | [4107-find-missing-elements](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/4107-find-missing-elements) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/4258-construct-uniform-parity-array-ii) |
 | [4285-smallest-stable-index-ii](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/4285-smallest-stable-index-ii) |
@@ -41,6 +42,7 @@ gotta post the solutions to problem that i would solve
 | [0560-subarray-sum-equals-k](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0575-distribute-candies) |
 | [2447-merge-similar-items](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/2447-merge-similar-items) |
+| [3799-unique-3-digit-even-numbers](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/3799-unique-3-digit-even-numbers) |
 | [4107-find-missing-elements](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/4107-find-missing-elements) |
 ## Sorting
 |  |
@@ -152,6 +154,7 @@ gotta post the solutions to problem that i would solve
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0326-power-of-three) |
+| [3799-unique-3-digit-even-numbers](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/3799-unique-3-digit-even-numbers) |
 ## Linked List
 |  |
 | ------- |
@@ -172,4 +175,8 @@ gotta post the solutions to problem that i would solve
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0128-longest-consecutive-sequence) |
+## Enumeration
+|  |
+| ------- |
+| [3799-unique-3-digit-even-numbers](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/3799-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
