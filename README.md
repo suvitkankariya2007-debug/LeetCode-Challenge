@@ -179,4 +179,20 @@ gotta post the solutions to problem that i would solve
 |  |
 | ------- |
 | [3799-unique-3-digit-even-numbers](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/3799-unique-3-digit-even-numbers) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0094-binary-tree-inorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
