@@ -87,6 +87,7 @@ gotta post the solutions to problem that i would solve
 | [0326-power-of-three](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
+| [0866-rectangle-overlap](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0866-rectangle-overlap) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2383-add-two-integers](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/2383-add-two-integers) |
 | [2556-convert-the-temperature](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/2556-convert-the-temperature) |
@@ -195,4 +196,8 @@ gotta post the solutions to problem that i would solve
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0094-binary-tree-inorder-traversal) |
+## Geometry
+|  |
+| ------- |
+| [0866-rectangle-overlap](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0866-rectangle-overlap) |
 <!---LeetCode Topics End-->
