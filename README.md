@@ -188,16 +188,27 @@ gotta post the solutions to problem that i would solve
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0094-binary-tree-inorder-traversal) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0094-binary-tree-inorder-traversal) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0094-binary-tree-inorder-traversal) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Geometry
 |  |
 | ------- |
 | [0866-rectangle-overlap](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0866-rectangle-overlap) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
