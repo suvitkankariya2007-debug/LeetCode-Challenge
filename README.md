@@ -163,6 +163,7 @@ gotta post the solutions to problem that i would solve
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0142-linked-list-cycle-ii](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0148-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0237-delete-node-in-a-linked-list) |
@@ -187,11 +188,13 @@ gotta post the solutions to problem that i would solve
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0094-binary-tree-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
@@ -199,6 +202,7 @@ gotta post the solutions to problem that i would solve
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
@@ -206,6 +210,7 @@ gotta post the solutions to problem that i would solve
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0543-diameter-of-binary-tree) |
 ## Geometry
