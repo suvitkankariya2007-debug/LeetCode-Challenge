@@ -21,6 +21,7 @@ gotta post the solutions to problem that i would solve
 | [0560-subarray-sum-equals-k](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
+| [0940-fruit-into-baskets](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/1019-squares-of-a-sorted-array) |
@@ -43,6 +44,7 @@ gotta post the solutions to problem that i would solve
 | [0349-intersection-of-two-arrays](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0575-distribute-candies) |
+| [0940-fruit-into-baskets](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0940-fruit-into-baskets) |
 | [2447-merge-similar-items](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/2447-merge-similar-items) |
 | [3799-unique-3-digit-even-numbers](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/3799-unique-3-digit-even-numbers) |
 | [4107-find-missing-elements](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/4107-find-missing-elements) |
@@ -235,4 +237,8 @@ gotta post the solutions to problem that i would solve
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0142-linked-list-cycle-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0940-fruit-into-baskets](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0940-fruit-into-baskets) |
 <!---LeetCode Topics End-->
