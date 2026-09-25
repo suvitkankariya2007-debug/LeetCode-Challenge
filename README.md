@@ -18,6 +18,7 @@ gotta post the solutions to problem that i would solve
 | [0128-longest-consecutive-sequence](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0349-intersection-of-two-arrays) |
+| [0496-next-greater-element-i](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
@@ -42,6 +43,7 @@ gotta post the solutions to problem that i would solve
 | [0142-linked-list-cycle-ii](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0349-intersection-of-two-arrays) |
+| [0496-next-greater-element-i](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0575-distribute-candies) |
 | [0940-fruit-into-baskets](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0940-fruit-into-baskets) |
@@ -193,6 +195,7 @@ gotta post the solutions to problem that i would solve
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0496-next-greater-element-i](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0496-next-greater-element-i) |
 ## Tree
 |  |
 | ------- |
@@ -241,4 +244,8 @@ gotta post the solutions to problem that i would solve
 |  |
 | ------- |
 | [0940-fruit-into-baskets](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0940-fruit-into-baskets) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
