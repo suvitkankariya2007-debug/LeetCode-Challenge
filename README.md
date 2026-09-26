@@ -10,6 +10,7 @@ gotta post the solutions to problem that i would solve
 | [0048-rotate-image](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0066-plus-one) |
 | [0001-two-sum](https://github.com/suvitkankariya2007-debug/75-Days-LeetCode-Challenge/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/suvitkankariya2007-debug/75-Days-LeetCode-Challenge/tree/master/0217-contains-duplicate) |
