@@ -146,6 +146,7 @@ gotta post the solutions to problem that i would solve
 | ------- |
 | [0344-reverse-string](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0412-fizz-buzz) |
+| [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Simulation
 |  |
 | ------- |
@@ -197,6 +198,7 @@ gotta post the solutions to problem that i would solve
 | [0094-binary-tree-inorder-traversal](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0496-next-greater-element-i](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0496-next-greater-element-i) |
+| [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Tree
 |  |
 | ------- |
@@ -249,4 +251,8 @@ gotta post the solutions to problem that i would solve
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0496-next-greater-element-i) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 <!---LeetCode Topics End-->
