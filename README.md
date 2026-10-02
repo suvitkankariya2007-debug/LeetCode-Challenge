@@ -197,6 +197,7 @@ gotta post the solutions to problem that i would solve
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0155-min-stack](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0496-next-greater-element-i) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Tree
@@ -255,4 +256,8 @@ gotta post the solutions to problem that i would solve
 |  |
 | ------- |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
