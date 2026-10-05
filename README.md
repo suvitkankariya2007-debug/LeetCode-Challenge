@@ -207,6 +207,7 @@ gotta post the solutions to problem that i would solve
 | [0110-balanced-binary-tree](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0543-diameter-of-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Depth-First Search
@@ -224,6 +225,7 @@ gotta post the solutions to problem that i would solve
 | [0110-balanced-binary-tree](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0543-diameter-of-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Geometry
@@ -265,5 +267,6 @@ gotta post the solutions to problem that i would solve
 ## Binary Search Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0450-delete-node-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0784-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
