@@ -78,6 +78,7 @@ gotta post the solutions to problem that i would solve
 | [0019-remove-nth-node-from-end-of-list](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0202-happy-number) |
@@ -144,6 +145,7 @@ gotta post the solutions to problem that i would solve
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0412-fizz-buzz) |
 | [0886-score-of-parentheses](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0886-score-of-parentheses) |
