@@ -149,6 +149,7 @@ gotta post the solutions to problem that i would solve
 | [0344-reverse-string](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0412-fizz-buzz) |
 | [0886-score-of-parentheses](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0886-score-of-parentheses) |
+| [1078-remove-outermost-parentheses](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/1078-remove-outermost-parentheses) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Simulation
 |  |
@@ -203,6 +204,7 @@ gotta post the solutions to problem that i would solve
 | [0155-min-stack](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0496-next-greater-element-i) |
 | [0886-score-of-parentheses](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0886-score-of-parentheses) |
+| [1078-remove-outermost-parentheses](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/1078-remove-outermost-parentheses) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Tree
 |  |
@@ -264,6 +266,7 @@ gotta post the solutions to problem that i would solve
 |  |
 | ------- |
 | [0886-score-of-parentheses](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0886-score-of-parentheses) |
+| [1078-remove-outermost-parentheses](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/1078-remove-outermost-parentheses) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Design
 |  |
