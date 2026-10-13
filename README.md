@@ -33,6 +33,7 @@ gotta post the solutions to problem that i would solve
 | [2447-merge-similar-items](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/2447-merge-similar-items) |
 | [3799-unique-3-digit-even-numbers](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/3799-unique-3-digit-even-numbers) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [4078-maximum-alternating-sum-of-squares](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4107-find-missing-elements](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/4107-find-missing-elements) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/4258-construct-uniform-parity-array-ii) |
 | [4285-smallest-stable-index-ii](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/4285-smallest-stable-index-ii) |
@@ -68,6 +69,7 @@ gotta post the solutions to problem that i would solve
 | [1019-squares-of-a-sorted-array](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/1019-squares-of-a-sorted-array) |
 | [2447-merge-similar-items](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/2447-merge-similar-items) |
 | [3859-maximum-product-of-two-digits](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/3859-maximum-product-of-two-digits) |
+| [4078-maximum-alternating-sum-of-squares](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4107-find-missing-elements](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/4107-find-missing-elements) |
 ## Ordered Set
 |  |
@@ -284,4 +286,8 @@ gotta post the solutions to problem that i would solve
 | [0098-validate-binary-search-tree](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0098-validate-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0450-delete-node-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0784-insert-into-a-binary-search-tree) |
+## Greedy
+|  |
+| ------- |
+| [4078-maximum-alternating-sum-of-squares](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/4078-maximum-alternating-sum-of-squares) |
 <!---LeetCode Topics End-->
