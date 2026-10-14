@@ -13,10 +13,12 @@ public:
               if(diff<0){
                 temp.erase();
                 break;}
-            while(diff>0&&temp[i] > '0') {
+            while(diff>0&&temp[i] > '0') {//here diff 0 is necessary
                 int x = min(diff, 9);
-                temp[i] =temp[i]- x;//This subtracts from the character's ASCII value.
-               
+                //temp[i] =temp[i]- x;//This subtracts from the character's ASCII value.
+               int digit = temp[i] - '0';  //9
+digit -= x;                 // 8
+temp[i] = digit + '0';      // '8'
                 diff = diff - x;
                
             }
