@@ -108,6 +108,7 @@ gotta post the solutions to problem that i would solve
 | [2608-count-the-digits-that-divide-a-number](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [3859-maximum-product-of-two-digits](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/3859-maximum-product-of-two-digits) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [4084-maximize-sum-of-squares-of-digits](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/4084-maximize-sum-of-squares-of-digits) |
 | [4245-count-commas-in-range](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/4245-count-commas-in-range) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/4258-construct-uniform-parity-array-ii) |
 ## Prefix Sum
@@ -290,4 +291,5 @@ gotta post the solutions to problem that i would solve
 |  |
 | ------- |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/4078-maximum-alternating-sum-of-squares) |
+| [4084-maximize-sum-of-squares-of-digits](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/4084-maximize-sum-of-squares-of-digits) |
 <!---LeetCode Topics End-->
