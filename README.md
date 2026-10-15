@@ -31,6 +31,7 @@ gotta post the solutions to problem that i would solve
 | [1603-running-sum-of-1d-array](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/1603-running-sum-of-1d-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2447-merge-similar-items](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/2447-merge-similar-items) |
+| [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/3799-unique-3-digit-even-numbers) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/4078-maximum-alternating-sum-of-squares) |
@@ -51,6 +52,7 @@ gotta post the solutions to problem that i would solve
 | [0575-distribute-candies](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0575-distribute-candies) |
 | [0940-fruit-into-baskets](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0940-fruit-into-baskets) |
 | [2447-merge-similar-items](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/2447-merge-similar-items) |
+| [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/3799-unique-3-digit-even-numbers) |
 | [4107-find-missing-elements](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/4107-find-missing-elements) |
 ## Sorting
@@ -292,4 +294,12 @@ gotta post the solutions to problem that i would solve
 | ------- |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4084-maximize-sum-of-squares-of-digits](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/4084-maximize-sum-of-squares-of-digits) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
