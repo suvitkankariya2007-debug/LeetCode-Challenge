@@ -11,6 +11,13 @@
  */
 class Solution {
 public:
+TreeNode* successor(TreeNode* root)
+{TreeNode*temp=root->right;
+    while(temp!=NULL&&temp->left!=NULL)
+    {
+        temp=temp->left;
+    }return temp;
+}
     TreeNode* deleteNode(TreeNode* root, int key) {
         if(root==NULL)
         return root;
@@ -19,23 +26,27 @@ public:
         else if(root->val>key)
         root->left=deleteNode(root->left,key);
         else
+        {  TreeNode*temp;
+            //for leaf node 
+            if(root->left==NULL){
+           temp=root->right;
+            delete root;
+            return temp;
+        }
+        else if(root->right==NULL)
         {
-            if(root->left==nullptr)
-            return root->right;//i must call for right then attach to the parent root
-            if(root->right==nullptr)
-            return root->left;
-            //if there are no empty nodes on both sides
-            TreeNode*s=root->right;
-            while(s->left!=NULL)
-            {
-                s=s->left;
-            }
-            root->val=s->val;
-            //again call for deleteing the original node
-           root->right= deleteNode(root->right,s->val);
-
-
+          temp=root->left;
+            delete root;
+            return temp;
+        }//if both are  not null
+        //find inorder successsor
+        else
+        {
+              TreeNode*succ=successor(root);
+        root->val=succ->val;
+      
+        root->right=deleteNode(root->right,succ->val);
+        }
         }return root;
-        
     }
 };
