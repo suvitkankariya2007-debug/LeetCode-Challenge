@@ -19,6 +19,7 @@ gotta post the solutions to problem that i would solve
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0347-top-k-frequent-elements](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0560-subarray-sum-equals-k) |
@@ -46,6 +47,7 @@ gotta post the solutions to problem that i would solve
 | [0128-longest-consecutive-sequence](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0202-happy-number) |
+| [0347-top-k-frequent-elements](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0560-subarray-sum-equals-k) |
@@ -64,6 +66,7 @@ gotta post the solutions to problem that i would solve
 | [0217-contains-duplicate](https://github.com/suvitkankariya2007-debug/75-Days-LeetCode-Challenge/tree/master/0217-contains-duplicate) |
 | [0088-merge-sorted-array](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0148-sort-list) |
+| [0347-top-k-frequent-elements](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0941-sort-array-by-parity](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0941-sort-array-by-parity) |
@@ -123,10 +126,12 @@ gotta post the solutions to problem that i would solve
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0148-sort-list) |
+| [0347-top-k-frequent-elements](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
@@ -136,6 +141,7 @@ gotta post the solutions to problem that i would solve
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
@@ -144,6 +150,7 @@ gotta post the solutions to problem that i would solve
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0948-sort-an-array) |
 ## Binary Search
 |  |
@@ -302,4 +309,8 @@ gotta post the solutions to problem that i would solve
 |  |
 | ------- |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
