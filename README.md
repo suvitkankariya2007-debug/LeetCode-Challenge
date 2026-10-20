@@ -217,6 +217,7 @@ gotta post the solutions to problem that i would solve
 | [0094-binary-tree-inorder-traversal](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0155-min-stack](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0496-next-greater-element-i) |
 | [0886-score-of-parentheses](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0886-score-of-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/1078-remove-outermost-parentheses) |
@@ -290,6 +291,7 @@ gotta post the solutions to problem that i would solve
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0232-implement-queue-using-stacks) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -313,4 +315,8 @@ gotta post the solutions to problem that i would solve
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0347-top-k-frequent-elements) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
