@@ -36,6 +36,7 @@ gotta post the solutions to problem that i would solve
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/3799-unique-3-digit-even-numbers) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [3950-maximum-k-to-sort-a-permutation](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/3950-maximum-k-to-sort-a-permutation) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4107-find-missing-elements](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/4107-find-missing-elements) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/4258-construct-uniform-parity-array-ii) |
@@ -321,4 +322,8 @@ gotta post the solutions to problem that i would solve
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/0232-implement-queue-using-stacks) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3950-maximum-k-to-sort-a-permutation](https://github.com/suvitkankariya2007-debug/LeetCode-Challenge/tree/master/3950-maximum-k-to-sort-a-permutation) |
 <!---LeetCode Topics End-->
